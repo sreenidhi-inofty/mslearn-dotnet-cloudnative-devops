@@ -14,7 +14,7 @@ spec:
       nodeSelector:
         kubernetes.io/os: linux
       containers:
-        - image: acseshop1894351163.azurecr.io/productservice:latest
+        - image: acseshop3030072504.azurecr.io/productservice:latest
           name: productservice
           resources:
             requests:
